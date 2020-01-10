@@ -21,7 +21,7 @@
   ],
   "require": {
     "php": ">=7.0",
-    "cakephp/orm": "^3.6"
+    "cakephp/orm": "^>=.6"
   },
   "autoload": {
     "psr-4": {
